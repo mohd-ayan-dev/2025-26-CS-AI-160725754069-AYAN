@@ -25,7 +25,7 @@ void insertBegin(int x)
     {
         temp->next = head;
         head = temp;
-        tail->next = head;   // maintain circular link
+        tail->next = head;  
     }
 }
 
@@ -44,7 +44,7 @@ void insertEnd(int x)
     {
         tail->next = temp;
         tail = temp;
-        tail->next = head;   // maintain circular link
+        tail->next = head; 
     }
 }
 
@@ -57,7 +57,7 @@ void deleteBegin()
         return;
     }
 
-    if(head == tail)   // only one node
+    if(head == tail)  
     {
         printf("Deleted: %d\n", head->data);
         free(head);
@@ -82,7 +82,7 @@ void deleteEnd()
         return;
     }
 
-    if(head == tail)   // only one node
+    if(head == tail)  
     {
         printf("Deleted: %d\n", tail->data);
         free(tail);
@@ -172,3 +172,4 @@ int main()
 
     return 0;
 }
+
