@@ -71,6 +71,6 @@ gcc array-operations.c -o array-operations
 ---
 
 ## 👨‍💻 About the Developer
-Built by **Mohammed Ayan** *Turning caffeine into mobile apps and AI solutions.*
+Built by **Mohammed Ayan** *Engineer. Problem Solver. Data enthusiast.*
 
 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/mohammed-ayan-94ab6a1b6)
