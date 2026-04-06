@@ -21,6 +21,7 @@ The codebase is categorized by data structure to make navigation simple. Here is
  ┣ 📂 linked-lists
  ┃ ┣ 📜 insert-beginning.c
  ┃ ┣ 📜 insert-end.c
+ ┃ ┣ 📜 binary-trees.c
  ┃ ┣ 📜 delete-beginning.c
  ┃ ┣ 📜 delete-end.c
  ┃ ┣ 📜 circular-linked-list.c
